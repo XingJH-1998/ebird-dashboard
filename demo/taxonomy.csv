@@ -1,0 +1,118 @@
+order,family,family_common,scientific_name,common_name,category,extinct
+Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",Anas platyrhynchos,Mallard,species,False
+Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",Anas zonorhyncha,Eastern Spot-billed Duck,species,False
+Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",Anas crecca,Green-winged Teal,species,False
+Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",Aythya fuligula,Tufted Duck,species,False
+Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",Aix galericulata,Mandarin Duck,species,False
+Anseriformes,Anatidae,"Ducks, Geese, and Waterfowl",Cygnus columbianus,Tundra Swan,species,False
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea cinerea,Gray Heron,species,False
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Egretta garzetta,Little Egret,species,False
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardeola bacchus,Chinese Pond-Heron,species,False
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Nycticorax nycticorax,Black-crowned Night Heron,species,False
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea coromanda,Eastern Cattle-Egret,species,False
+Pelecaniformes,Ardeidae,"Herons, Egrets, and Bitterns",Ardea alba,Great Egret,species,False
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa nebularia,Common Greenshank,species,False
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Tringa ochropus,Green Sandpiper,species,False
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Actitis hypoleucos,Common Sandpiper,species,False
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Gallinago gallinago,Common Snipe,species,False
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Calidris alpina,Dunlin,species,False
+Charadriiformes,Scolopacidae,Sandpipers and Allies,Numenius madagascariensis,Far Eastern Curlew,species,False
+Charadriiformes,Charadriidae,Plovers and Lapwings,Thinornis dubius,Little Ringed Plover,species,False
+Charadriiformes,Charadriidae,Plovers and Lapwings,Anarhynchus alexandrinus,Kentish Plover,species,False
+Charadriiformes,Charadriidae,Plovers and Lapwings,Vanellus vanellus,Northern Lapwing,species,False
+Charadriiformes,Charadriidae,Plovers and Lapwings,Pluvialis fulva,Pacific Golden-Plover,species,False
+Charadriiformes,Charadriidae,Plovers and Lapwings,Anarhynchus mongolus,Siberian Sand-Plover,species,False
+Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",Chroicocephalus ridibundus,Black-headed Gull,species,False
+Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",Larus crassirostris,Black-tailed Gull,species,False
+Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",Larus vegae,Vega Gull,species,False
+Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",Sterna hirundo,Common Tern,species,False
+Charadriiformes,Laridae,"Gulls, Terns, and Skimmers",Chlidonias hybrida,Whiskered Tern,species,False
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Amaurornis phoenicurus,White-breasted Waterhen,species,False
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Gallinula chloropus,Eurasian Moorhen,species,False
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Fulica atra,Eurasian Coot,species,False
+Gruiformes,Rallidae,"Rails, Gallinules, and Coots",Rallus indicus,Brown-cheeked Rail,species,False
+Coraciiformes,Alcedinidae,Kingfishers,Alcedo atthis,Common Kingfisher,species,False
+Coraciiformes,Alcedinidae,Kingfishers,Halcyon smyrnensis,White-throated Kingfisher,species,False
+Coraciiformes,Alcedinidae,Kingfishers,Halcyon pileata,Black-capped Kingfisher,species,False
+Coraciiformes,Alcedinidae,Kingfishers,Megaceryle lugubris,Crested Kingfisher,species,False
+Passeriformes,Hirundinidae,Swallows,Hirundo rustica,Barn Swallow,species,False
+Passeriformes,Hirundinidae,Swallows,Cecropis daurica,Eastern Red-rumped Swallow,species,False
+Passeriformes,Hirundinidae,Swallows,Riparia riparia,Bank Swallow,species,False
+Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla alba,White Wagtail,species,False
+Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla cinerea,Gray Wagtail,species,False
+Passeriformes,Motacillidae,Wagtails and Pipits,Motacilla tschutschensis,Eastern Yellow Wagtail,species,False
+Passeriformes,Motacillidae,Wagtails and Pipits,Anthus hodgsoni,Olive-backed Pipit,species,False
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Parus cinereus,Asian Tit,species,False
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Periparus ater,Coal Tit,species,False
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Periparus venustulus,Yellow-bellied Tit,species,False
+Passeriformes,Paridae,"Tits, Chickadees, and Titmice",Sittiparus varius,Varied Tit,species,False
+Passeriformes,Turdidae,Thrushes and Allies,Turdus mandarinus,Chinese Blackbird,species,False
+Passeriformes,Turdidae,Thrushes and Allies,Turdus hortulorum,Gray-backed Thrush,species,False
+Passeriformes,Turdidae,Thrushes and Allies,Turdus obscurus,Eyebrowed Thrush,species,False
+Passeriformes,Turdidae,Thrushes and Allies,Turdus naumanni,Naumann's Thrush,species,False
+Passeriformes,Muscicapidae,Old World Flycatchers,Tarsiger cyanurus,Red-flanked Bluetail,species,False
+Passeriformes,Muscicapidae,Old World Flycatchers,Phoenicurus auroreus,Daurian Redstart,species,False
+Passeriformes,Muscicapidae,Old World Flycatchers,Ficedula zanthopygia,Yellow-rumped Flycatcher,species,False
+Passeriformes,Muscicapidae,Old World Flycatchers,Muscicapa dauurica,Asian Brown Flycatcher,species,False
+Passeriformes,Muscicapidae,Old World Flycatchers,Calliope calliope,Siberian Rubythroat,species,False
+Passeriformes,Muscicapidae,Old World Flycatchers,Myophonus caeruleus,Blue Whistling-Thrush,species,False
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus inornatus,Yellow-browed Warbler,species,False
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus proregulus,Pallas's Leaf Warbler,species,False
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus fuscatus,Dusky Warbler,species,False
+Passeriformes,Phylloscopidae,Leaf Warblers,Phylloscopus borealis,Arctic Warbler,species,False
+Passeriformes,Paradoxornithidae,Parrotbills,Suthora webbiana,Vinous-throated Parrotbill,species,False
+Passeriformes,Timaliidae,"Tree-Babblers, Scimitar-Babblers, and Allies",Cyanoderma ruficeps,Rufous-capped Babbler,species,False
+Passeriformes,Timaliidae,"Tree-Babblers, Scimitar-Babblers, and Allies",Pomatorhinus ruficollis,Streak-breasted Scimitar-Babbler,species,False
+Passeriformes,Leiothrichidae,Laughingthrushes and Allies,Garrulax canorus,Chinese Hwamei,species,False
+Passeriformes,Leiothrichidae,Laughingthrushes and Allies,Leiothrix lutea,Red-billed Leiothrix,species,False
+Passeriformes,Leiothrichidae,Laughingthrushes and Allies,Pterorhinus perspicillatus,Masked Laughingthrush,species,False
+Passeriformes,Leiothrichidae,Laughingthrushes and Allies,Pterorhinus sannio,White-browed Laughingthrush,species,False
+Piciformes,Picidae,Woodpeckers,Picus canus,Gray-headed Woodpecker,species,False
+Piciformes,Picidae,Woodpeckers,Dendrocopos major,Great Spotted Woodpecker,species,False
+Piciformes,Picidae,Woodpeckers,Yungipicus canicapillus,Gray-capped Pygmy Woodpecker,species,False
+Piciformes,Picidae,Woodpeckers,Blythipicus pyrrhotis,Bay Woodpecker,species,False
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Pica serica,Oriental Magpie,species,False
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Cyanopica cyanus,Azure-winged Magpie,species,False
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Corvus macrorhynchos,Large-billed Crow,species,False
+Passeriformes,Corvidae,"Crows, Jays, and Magpies",Urocissa erythroryncha,Red-billed Blue-Magpie,species,False
+Columbiformes,Columbidae,Pigeons and Doves,Spilopelia chinensis,Spotted Dove,species,False
+Columbiformes,Columbidae,Pigeons and Doves,Streptopelia orientalis,Oriental Turtle-Dove,species,False
+Columbiformes,Columbidae,Pigeons and Doves,Treron sieboldii,White-bellied Green-Pigeon,species,False
+Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",Milvus migrans,Black Kite,species,False
+Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",Tachyspiza virgata,Besra,species,False
+Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",Buteo japonicus,Eastern Buzzard,species,False
+Accipitriformes,Accipitridae,"Hawks, Eagles, and Kites",Circus spilonotus,Eastern Marsh Harrier,species,False
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Fringilla montifringilla,Brambling,species,False
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Chloris sinica,Oriental Greenfinch,species,False
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Eophona migratoria,Yellow-billed Grosbeak,species,False
+Passeriformes,Fringillidae,"Finches, Euphonias, and Allies",Spinus spinus,Eurasian Siskin,species,False
+Podicipediformes,Podicipedidae,Grebes,Tachybaptus ruficollis,Little Grebe,species,False
+Podicipediformes,Podicipedidae,Grebes,Podiceps cristatus,Great Crested Grebe,species,False
+Suliformes,Phalacrocoracidae,Cormorants and Shags,Phalacrocorax carbo,Great Cormorant,species,False
+Pelecaniformes,Threskiornithidae,Ibises and Spoonbills,Threskiornis melanocephalus,Black-headed Ibis,species,False
+Pelecaniformes,Threskiornithidae,Ibises and Spoonbills,Platalea leucorodia,Eurasian Spoonbill,species,False
+Ciconiiformes,Ciconiidae,Storks,Ciconia nigra,Black Stork,species,False
+Ciconiiformes,Ciconiidae,Storks,Ciconia boyciana,Oriental Stork,species,False
+Cuculiformes,Cuculidae,Cuckoos,Cuculus canorus,Common Cuckoo,species,False
+Cuculiformes,Cuculidae,Cuckoos,Eudynamys scolopaceus,Asian Koel,species,False
+Strigiformes,Strigidae,Owls,Otus sunia,Oriental Scops-Owl,species,False
+Strigiformes,Strigidae,Owls,Ninox scutulata,Brown Boobook,species,False
+Strigiformes,Strigidae,Owls,Bubo bubo,Eurasian Eagle-Owl,species,False
+Apodiformes,Apodidae,Swifts,Apus pacificus,Pacific Swift,species,False
+Apodiformes,Apodidae,Swifts,Hirundapus caudacutus,White-throated Needletail,species,False
+Passeriformes,Pycnonotidae,Bulbuls,Pycnonotus sinensis,Light-vented Bulbul,species,False
+Passeriformes,Pycnonotidae,Bulbuls,Hypsipetes leucocephalus,Black Bulbul,species,False
+Passeriformes,Zosteropidae,"White-eyes, Yuhinas, and Allies",Zosterops simplex,Swinhoe's White-eye,species,False
+Passeriformes,Sittidae,Nuthatches,Sitta europaea,Eurasian Nuthatch,species,False
+Passeriformes,Emberizidae,Old World Buntings,Emberiza cioides,Meadow Bunting,species,False
+Passeriformes,Emberizidae,Old World Buntings,Emberiza elegans,Yellow-throated Bunting,species,False
+Passeriformes,Emberizidae,Old World Buntings,Emberiza rustica,Rustic Bunting,species,False
+Passeriformes,Estrildidae,Waxbills and Allies,Lonchura punctulata,Scaly-breasted Munia,species,False
+Bucerotiformes,Upupidae,Hoopoes,Upupa epops,Common Hoopoe,species,False
+Coraciiformes,Meropidae,Bee-eaters,Merops orientalis,Asian Green Bee-eater,species,False
+Passeriformes,Laniidae,Shrikes,Lanius schach,Long-tailed Shrike,species,False
+Passeriformes,Laniidae,Shrikes,Lanius cristatus,Brown Shrike,species,False
+Galliformes,Phasianidae,"Pheasants, Grouse, and Allies",Phasianus colchicus,Ring-necked Pheasant,species,False
+Passeriformes,Aegithalidae,Long-tailed Tits,Aegithalos concinnus,Black-throated Tit,species,False
+Passeriformes,Certhiidae,Treecreepers,Certhia familiaris,Eurasian Treecreeper,species,False
+Passeriformes,Alaudidae,Larks,Alauda arvensis,Eurasian Skylark,species,False

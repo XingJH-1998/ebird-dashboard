@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 生成结果
+dashboard/
+
+# 凭据
+.secrets/
+
+# 自己的真实观鸟数据不要提交到这里
+/data/
+/mydata/
+/MyEBirdData.csv
